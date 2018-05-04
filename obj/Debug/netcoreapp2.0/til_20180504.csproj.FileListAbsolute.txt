@@ -1,0 +1,10 @@
+C:\Users\KL\AAA_code\til_20180504\bin\Debug\netcoreapp2.0\til_20180504.deps.json
+C:\Users\KL\AAA_code\til_20180504\bin\Debug\netcoreapp2.0\til_20180504.runtimeconfig.json
+C:\Users\KL\AAA_code\til_20180504\bin\Debug\netcoreapp2.0\til_20180504.runtimeconfig.dev.json
+C:\Users\KL\AAA_code\til_20180504\bin\Debug\netcoreapp2.0\til_20180504.dll
+C:\Users\KL\AAA_code\til_20180504\bin\Debug\netcoreapp2.0\til_20180504.pdb
+C:\Users\KL\AAA_code\til_20180504\obj\Debug\netcoreapp2.0\til_20180504.csproj.CoreCompileInputs.cache
+C:\Users\KL\AAA_code\til_20180504\obj\Debug\netcoreapp2.0\til_20180504.AssemblyInfoInputs.cache
+C:\Users\KL\AAA_code\til_20180504\obj\Debug\netcoreapp2.0\til_20180504.AssemblyInfo.cs
+C:\Users\KL\AAA_code\til_20180504\obj\Debug\netcoreapp2.0\til_20180504.dll
+C:\Users\KL\AAA_code\til_20180504\obj\Debug\netcoreapp2.0\til_20180504.pdb
